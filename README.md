@@ -1,11 +1,7 @@
-\## Wymagane
+## Wymagane
+- .NET 10 SDK
 
-\- .NET 10 SDK
-
-
-
-\## Uruchomienie
-
+## Uruchomienie
 ```bash
 
 git clone https://github.com/s33045/apbd-proj3-refactoring.git
@@ -17,4 +13,3 @@ dotnet build
 dotnet run --project LegacyRenewalAppConsumer/LegacyRenewalAppConsumer.csproj
 
 ```
-
